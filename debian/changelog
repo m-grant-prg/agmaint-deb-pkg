@@ -1,3 +1,9 @@
+agmaint (1.1.9-0ubuntu22.04u3) UNRELEASED; urgency=medium
+
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 03 Mar 2023 14:30:27 +0000
+
 agmaint (1.1.9-0ubuntu22.04u2) jammy; urgency=medium
 
   * Remove unnecessary (copy & paste) Depends on OBS signing key package.
