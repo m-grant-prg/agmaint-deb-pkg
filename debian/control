@@ -1,0 +1,19 @@
+Source: agmaint
+Section: misc
+Priority: extra
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13), autoconf, automake,
+	txt2man, txt2manwrap
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/agmaint.git
+Vcs-Browser: https://github.com/m-grant-prg/agmaint
+
+Package: agmaint
+Architecture: all
+Depends: ${misc:Depends},
+	apt, curl, gpg
+Description: apt-get and apt-key maintenance scripts.
+ Scripts simplify:-
+ Daily routine, runs; upgrade, autoclean, check, autoremove
+ apt-key maintenance via key retrieval and keyring loading scripting
+
