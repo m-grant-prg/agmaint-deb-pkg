@@ -1,3 +1,9 @@
+agmaint (1.2.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 29 Mar 2023 15:49:23 +0100
+
 agmaint (1.1.9-0ubuntu22.04u3) jammy; urgency=medium
 
   * Update Copyright for 2023.
