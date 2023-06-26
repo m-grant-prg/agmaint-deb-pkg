@@ -1,8 +1,8 @@
-agmaint (1.2.1+deb11u2) UNRELEASED; urgency=medium
+agmaint (1.2.1+deb11u2) bullseye; urgency=medium
 
   * Update watch file to support ~.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 26 Jun 2023 14:43:37 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 26 Jun 2023 14:44:28 +0100
 
 agmaint (1.2.1+deb11u1) bullseye; urgency=medium
 
