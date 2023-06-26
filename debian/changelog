@@ -1,8 +1,8 @@
-agmaint (1.3.0+deb13u1) UNRELEASED; urgency=medium
+agmaint (1.3.0+deb13u1) testing; urgency=medium
 
   * Create testing branch.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Mon, 26 Jun 2023 16:04:55 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 26 Jun 2023 16:06:31 +0100
 
 agmaint (1.3.0+deb12u1) bookworm; urgency=medium
 
