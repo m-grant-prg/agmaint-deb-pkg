@@ -1,3 +1,9 @@
+agmaint (1.2.2-0ubuntu20.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 10 Jul 2023 14:30:36 +0100
+
 agmaint (1.2.1-0ubuntu20.04u2) focal; urgency=medium
 
   * Update watch file to support ~.
