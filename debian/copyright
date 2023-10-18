@@ -3,11 +3,11 @@ Upstream-Name: agmaint
 Source: https://github.com/m-grant-prg/agmaint
 
 Files: *
-Copyright: (C) 2014-2022 Mark Grant <m.grant.prg@gmail.com>
+Copyright: (C) 2014-2023 Mark Grant <m.grant.prg@gmail.com>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: (C) 2014-2022 Mark Grant <m.grant.prg@gmail.com>
+Copyright: (C) 2014-2023 Mark Grant <m.grant.prg@gmail.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
