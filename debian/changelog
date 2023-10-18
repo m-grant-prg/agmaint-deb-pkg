@@ -1,8 +1,8 @@
-agmaint (1.2.3-0ubuntu20.04u1) UNRELEASED; urgency=medium
+agmaint (1.2.3-0ubuntu20.04u1) focal; urgency=medium
 
   * Merge new upstream release
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 18 Oct 2023 10:22:46 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 18 Oct 2023 10:23:36 +0100
 
 agmaint (1.2.2-0ubuntu20.04u1) focal; urgency=medium
 
