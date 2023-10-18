@@ -1,8 +1,8 @@
-agmaint (1.2.3+deb11u1) UNRELEASED; urgency=medium
+agmaint (1.2.3+deb11u1) bullseye; urgency=medium
 
   * Merge new upstream release
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 18 Oct 2023 09:45:57 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 18 Oct 2023 09:47:28 +0100
 
 agmaint (1.2.2+deb11u1) bullseye; urgency=medium
 
