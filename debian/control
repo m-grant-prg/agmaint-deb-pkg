@@ -10,9 +10,9 @@ Vcs-Browser: https://github.com/m-grant-prg/agmaint
 
 Package: agmaint
 Architecture: all
-Depends: ${misc:Depends},
-	apt, curl, gpg,
-	mgrant-obs-deb-keyring
+Depends: apt, curl, gpg,
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
 Description: apt-get and apt-key maintenance scripts.
  Scripts simplify:-
  Daily routine, runs; upgrade, autoclean, check, autoremove
