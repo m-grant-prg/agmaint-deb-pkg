@@ -14,6 +14,6 @@ Depends: apt, curl, gpg,
 	${misc:Depends}
 Description: apt-get and apt-key maintenance scripts.
  Scripts simplify:-
- Daily routine, runs; upgrade, autoclean, check, autoremove
+ Daily routine, runs; upgrade, autoclean, clean, check, autoremove
  apt-key maintenance via key retrieval and keyring loading scripting
 
