@@ -1,3 +1,9 @@
+agmaint (1.4.1+ubuntu26.04u1) resolute; urgency=medium
+
+  * Create resolute
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 13 Apr 2026 10:10:31 +0100
+
 agmaint (1.4.1+ubuntu24.04u1) noble; urgency=medium
 
   * Update Copyright for 2026
