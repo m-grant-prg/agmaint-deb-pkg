@@ -1,3 +1,9 @@
+agmaint (1.4.2+deb14u1) forky; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 May 2026 08:42:42 +0100
+
 agmaint (1.4.1+deb14u1) forky; urgency=medium
 
   * Update Copyright for 2026
