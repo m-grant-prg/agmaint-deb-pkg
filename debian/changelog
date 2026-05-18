@@ -1,3 +1,9 @@
+agmaint (1.4.2+ubuntu24.04u1) noble; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 May 2026 08:46:28 +0100
+
 agmaint (1.4.1+ubuntu24.04u1) noble; urgency=medium
 
   * Update Copyright for 2026
