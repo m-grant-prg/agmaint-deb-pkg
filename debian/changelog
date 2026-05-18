@@ -1,3 +1,9 @@
+agmaint (1.4.2+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 May 2026 08:38:53 +0100
+
 agmaint (1.4.2~rc2+deb13u1) trixie; urgency=medium
 
   * New upstream development release
