@@ -1,3 +1,10 @@
+agmaint (1.4.3+ubuntu26.04u1) resolute; urgency=medium
+
+  * Add Build-Depends for shellcheck
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 13 Sep 2026 13:42:10 +0100
+
 agmaint (1.4.2+ubuntu26.04u1) resolute; urgency=medium
 
   * New upstream release
